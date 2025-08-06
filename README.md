@@ -35,4 +35,4 @@
 <a href="https://linkedin.com/in/joão-pedro-souza-parolin-b4b1a321b" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/joaopedroparolin/joaopedroparolin/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/joaopedroparolin/joaopedroparolin/blob/output/github-contribution-grid-snake.svg"/>
